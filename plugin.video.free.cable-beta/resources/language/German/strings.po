@@ -1,0 +1,258 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2013-08-03 23:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "#30001"
+msgid "Bitrate Limit (kbps)"
+msgstr "Bitratenlimit (kbps)"
+
+msgctxt "#30002"
+msgid "200"
+msgstr "200"
+
+msgctxt "#30003"
+msgid "400"
+msgstr "400"
+
+msgctxt "#30004"
+msgid "600"
+msgstr "600"
+
+msgctxt "#30005"
+msgid "800"
+msgstr "800"
+
+msgctxt "#30006"
+msgid "1000"
+msgstr "1000"
+
+msgctxt "#30007"
+msgid "1200"
+msgstr "1200"
+
+msgctxt "#30008"
+msgid "1400"
+msgstr "1400"
+
+msgctxt "#30009"
+msgid "1600"
+msgstr "1600"
+
+msgctxt "#30010"
+msgid "2000"
+msgstr "2000"
+
+msgctxt "#30011"
+msgid "2500"
+msgstr "2500"
+
+msgctxt "#30012"
+msgid "5000"
+msgstr "5000"
+
+msgctxt "#30013"
+msgid "10000"
+msgstr "10000"
+
+msgctxt "#30014"
+msgid "Enable Subtitles"
+msgstr "Untertitel aktivieren"
+
+msgctxt "#30015"
+msgid "Use TVDB Episode Names"
+msgstr "TVDB Episodennamen benutzen"
+
+msgctxt "#31000"
+msgid "Connection"
+msgstr "Verbindung"
+
+msgctxt "#31001"
+msgid "Connection type"
+msgstr "Verbindungstyp"
+
+msgctxt "#31002"
+msgid "Direct"
+msgstr "Direkt"
+
+msgctxt "#31003"
+msgid "DNS Proxy"
+msgstr "DNS Proxy"
+
+msgctxt "#31004"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#31005"
+msgid "Tunlr"
+msgstr "Tunlr"
+
+msgctxt "#31006"
+msgid "DNS Proxy IP"
+msgstr "DNS Proxy IP"
+
+msgctxt "#31007"
+msgid "Proxy IP"
+msgstr "Proxy IP"
+
+msgctxt "#31008"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#31009"
+msgid "User Name"
+msgstr "Benutzername"
+
+msgctxt "#31010"
+msgid "Password"
+msgstr "Passwort"
+
+msgctxt "#32000"
+msgid "Views"
+msgstr "Ansicht"
+
+msgctxt "#32001"
+msgid "Enable Views"
+msgstr "Ansicht aktivieren"
+
+msgctxt "#32002"
+msgid "Thumbnail"
+msgstr "Fotos"
+
+msgctxt "#32003"
+msgid "Poster Wrap"
+msgstr "Posterumlauf"
+
+msgctxt "#32004"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "#32005"
+msgid "Media Info 2"
+msgstr "Medien Info 2"
+
+msgctxt "#32006"
+msgid "Media Info"
+msgstr "Medien Info"
+
+msgctxt "#32007"
+msgid "Fanart"
+msgstr "Fanart"
+
+msgctxt "#32008"
+msgid "Big List"
+msgstr "Große Liste"
+
+msgctxt "#32009"
+msgid "Root View"
+msgstr "Hauptansicht"
+
+msgctxt "#32010"
+msgid "Show View"
+msgstr "Serienansicht"
+
+msgctxt "#32011"
+msgid "Category View"
+msgstr "Kategorieansicht"
+
+msgctxt "#32012"
+msgid "Episode View"
+msgstr "Folgenansicht"
+
+msgctxt "#33000"
+msgid "Stations"
+msgstr "Stationen"
+
+msgctxt "#39000"
+msgid "Favorite Shows"
+msgstr "Favoriten"
+
+msgctxt "#39001"
+msgid "Your Favorite Shows On:"
+msgstr "Deine Favoriten auf:"
+
+msgctxt "#39002"
+msgid "All Shows"
+msgstr "Alle Shows"
+
+msgctxt "#39003"
+msgid "All Shows Available On:"
+msgstr "Alle Shows verfügbar auf:"
+
+msgctxt "#39004"
+msgid "Manual Search"
+msgstr "Manuelle Suche"
+
+msgctxt "#39005"
+msgid "Looking up "
+msgstr "Schaue nach "
+
+msgctxt "#39006"
+msgid "FC - Remove Favorite Mark"
+msgstr "FC - Aus Favoriten entfernen"
+
+msgctxt "#39007"
+msgid "FC - Mark as Favorite"
+msgstr "FC - Zu Favoriten hinzufügen"
+
+msgctxt "#39008"
+msgid "FC - Refresh TVDB Data"
+msgstr "FC - TVDB Daten aktualisieren"
+
+msgctxt "#39009"
+msgid "FC - UnHide Show"
+msgstr "FC - Show zeigen"
+
+msgctxt "#39010"
+msgid "FC - Hide Show"
+msgstr "FC - Show verstecken"
+
+msgctxt "#39011"
+msgid "FC - Delete Show"
+msgstr "FC - Show löschen"
+
+msgctxt "#39012"
+msgid "Network: "
+msgstr "Netzwerk: "
+
+msgctxt "#39013"
+msgid "Station: "
+msgstr "Station: "
+
+msgctxt "#39014"
+msgid "Airs: "
+msgstr "Sendezeit: "
+
+msgctxt "#39015"
+msgid "Status: "
+msgstr "Status: "
+
+msgctxt "#39016"
+msgid "Caching"
+msgstr "Zwischenspeichern"
+
+msgctxt "#39017"
+msgid "Scanning "
+msgstr "Scanne "
+
+msgctxt "#39018"
+msgid "Grabbing Show list"
+msgstr "Show Liste einlesen"
+
+msgctxt "#39019"
+msgid "Import"
+msgstr "Importiere"
